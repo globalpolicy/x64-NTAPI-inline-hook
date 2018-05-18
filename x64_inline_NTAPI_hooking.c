@@ -19,7 +19,7 @@ https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/content/ntddk/nf-n
 https://msdn.microsoft.com/en-us/library/gg750647.aspx
 https://msdn.microsoft.com/en-us/library/cc704588.aspx
 https://www.codeproject.com/Articles/4610/Three-Ways-to-Inject-Your-Code-into-Another-Proces (this could never be irrelevant)
-http://c0dew0rth.blogspot.com/2016/01/openprocess-api-hook-in-msvcc.html (myself, ~ 1.5 years ago)
+http://c0dew0rth.blogspot.com/2016/01/openprocess-api-hook-in-msvcc.html (myself, ~ 2.5 years ago)
 */
 
 LPVOID getRemoteProcAddress(char* dllName, char* procName, int targetPid);
